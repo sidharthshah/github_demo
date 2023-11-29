@@ -1,3 +1,1 @@
-hello!
-good evening.
-my second commit.
+print("Omkar is the boss!")
